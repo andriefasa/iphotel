@@ -7,11 +7,11 @@
 			<th colspan="5">Lantai 25</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -42,11 +42,11 @@
 			<th colspan="5">Lantai 23</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -77,11 +77,11 @@
 			<th colspan="5">Lantai 23</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -112,11 +112,11 @@
 			<th colspan="5">Lantai 20</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -147,11 +147,11 @@
 			<th colspan="5">Lantai 19</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -182,11 +182,11 @@
 			<th colspan="5">Lantai 19</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -217,11 +217,11 @@
 			<th colspan="5">Lantai 18</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -252,11 +252,11 @@
 			<th colspan="5">Lantai 17</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -287,11 +287,11 @@
 			<th colspan="5">Lantai 16</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -322,11 +322,11 @@
 			<th colspan="5">Lantai 15</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -357,11 +357,11 @@
 			<th colspan="5">Lantai 12</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -392,11 +392,11 @@
 			<th colspan="5">Lantai 11</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -427,11 +427,11 @@
 			<th colspan="5">Lantai 10</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -462,11 +462,11 @@
 			<th colspan="5">Lantai 9</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -497,11 +497,11 @@
 			<th colspan="5">Lantai 8</th>
 		</tr>
 		<tr>
-			<td>Perangkat</td>
-			<td>IP Address</td>
-			<td>Netmask</td>
-			<td>Gateway</td>
-			<td>Keterangan</td>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
 		</tr>
 	</thead>
 	<tbody>
