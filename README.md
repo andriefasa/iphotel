@@ -5,13 +5,10 @@
 	<caption>Data IP Perangkat</caption>
 	<thead>
 		<tr>
-			<th>Lantai 25</th>
+			<th colspan="5">Lantai 25</th>
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			<td>Lantai 25</td>
-		</tr>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
