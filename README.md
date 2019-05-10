@@ -6,8 +6,6 @@
 		<tr>
 			<th colspan="5">Lantai 25</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -15,6 +13,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.25.1 s/d 172.12.25.30</td>
@@ -41,8 +41,6 @@
 		<tr>
 			<th colspan="5">Lantai 23</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -50,6 +48,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.23.1 s/d 172.12.23.30</td>
@@ -74,10 +74,8 @@
 	</tbody>
 	<thead>
 		<tr>
-			<th colspan="5">Lantai 21</th>
+			<th colspan="5">Lantai 23</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -85,6 +83,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.21.1 s/d 172.12.21.30</td>
@@ -111,8 +111,6 @@
 		<tr>
 			<th colspan="5">Lantai 20</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -120,6 +118,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.20.1 s/d 172.12.20.30</td>
@@ -146,8 +146,6 @@
 		<tr>
 			<th colspan="5">Lantai 19</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -155,6 +153,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.19.1 s/d 172.12.19.30</td>
@@ -181,8 +181,6 @@
 		<tr>
 			<th colspan="5">Lantai 19</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -190,6 +188,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.19.1 s/d 172.12.19.30</td>
@@ -216,8 +216,6 @@
 		<tr>
 			<th colspan="5">Lantai 18</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -225,6 +223,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.18.1 s/d 172.12.18.30</td>
@@ -251,8 +251,6 @@
 		<tr>
 			<th colspan="5">Lantai 17</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -260,6 +258,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.17.1 s/d 172.12.17.30</td>
@@ -284,10 +284,8 @@
 	</tbody>
 	<thead>
 		<tr>
-			<th colspan="5">Lantai 40</th>
+			<th colspan="5">Lantai 16</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -295,6 +293,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.16.1 s/d 172.12.16.30</td>
@@ -319,10 +319,8 @@
 	</tbody>
 	<thead>
 		<tr>
-			<th colspan="5">Lantai 40</th>
+			<th colspan="5">Lantai 15</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -330,6 +328,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.15.1 s/d 172.12.15.30</td>
@@ -354,10 +354,8 @@
 	</tbody>
 	<thead>
 		<tr>
-			<th colspan="5">Lantai 40</th>
+			<th colspan="5">Lantai 12</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -365,6 +363,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.12.1 s/d 172.12.12.30</td>
@@ -389,10 +389,8 @@
 	</tbody>
 	<thead>
 		<tr>
-			<th colspan="5">Lantai 40</th>
+			<th colspan="5">Lantai 11</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -400,6 +398,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.11.1 s/d 172.12.11.30</td>
@@ -424,10 +424,8 @@
 	</tbody>
 	<thead>
 		<tr>
-			<th colspan="5">Lantai 40</th>
+			<th colspan="5">Lantai 10</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -435,6 +433,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.10.1 s/d 172.12.10.30</td>
@@ -459,10 +459,8 @@
 	</tbody>
 	<thead>
 		<tr>
-			<th colspan="5">Lantai 40</th>
+			<th colspan="5">Lantai 9</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -470,6 +468,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.9.1 s/d 172.12.9.30</td>
@@ -494,10 +494,8 @@
 	</tbody>
 	<thead>
 		<tr>
-			<th colspan="5">Lantai 40</th>
+			<th colspan="5">Lantai 8</th>
 		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>Perangkat</td>
 			<td>IP Address</td>
@@ -505,6 +503,8 @@
 			<td>Gateway</td>
 			<td>Keterangan</td>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Akses Point</td>
 			<td>172.12.8.1 s/d 172.12.8.30</td>
