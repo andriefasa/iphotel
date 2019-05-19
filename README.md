@@ -74,7 +74,7 @@
 	</tbody>
 	<thead>
 		<tr>
-			<th colspan="5">Lantai 23</th>
+			<th colspan="5">Lantai 21</th>
 		</tr>
 		<tr>
 			<th>Perangkat</th>
