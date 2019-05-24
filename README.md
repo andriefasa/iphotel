@@ -527,4 +527,39 @@
 			<td>Switch Non POE</td>
 		</tr>
 	</tbody>
+<thead>
+		<tr>
+			<th colspan="5">Server Farm</th>
+		</tr>
+		<tr>
+			<th>Perangkat</th>
+			<th>IP Address</th>
+			<th>Netmask</th>
+			<th>Gateway</th>
+			<th>Keterangan</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Core Switch</td>
+			<td>172.12.0.11</td>
+			<td>255.255.224.0</td>
+			<td>172.12.0.1</td>
+			<td>Core Switch HSIA</td>
+		</tr>
+		<tr>
+			<td>PC Server</td>
+			<td>192.168.2.99</td>
+			<td>255.255.255.0</td>
+			<td>192.168.2.1</td>
+			<td>PC Server Controller Cloudkey</td>
+		</tr>
+		<tr>
+			<td>Controller Ruckus</td>
+			<td>172.12.0.100</td>
+			<td>255.255.224.0</td>
+			<td>172.12.0.1</td>
+			<td>Controller Ruckus</td>
+		</tr>
+	</tbody>
 </table>
